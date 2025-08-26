@@ -9,14 +9,15 @@ public class arquivoJava {
         System.out.println("=== CALCULADORA ===");
         System.out.println("Digite a operação desejada:");
         System.out.println("1. Adição");
-        System.out.println("2. Multiplicação");
-        System.out.println("3. Divisão");
-        System.out.print("Digite sua escolha (1-3): ");
+        System.out.println("2. Subtração");
+        System.out.println("3. Multiplicação");
+        System.out.println("4. Divisão");
+        System.out.print("Digite sua escolha (1-4): ");
         
         int escolha = scanner.nextInt();
         
-        if (escolha < 1 || escolha > 3) {
-            System.out.println("Escolha inválida! Por favor, digite um número entre 1 e 3.");
+        if (escolha < 1 || escolha > 4) {
+            System.out.println("Escolha inválida! Por favor, digite um número entre 1 e 4.");
             scanner.close();
             return;
         }
@@ -38,11 +39,16 @@ public class arquivoJava {
                 simbolo = "+";
                 break;
             case 2:
+                resultado = num1 - num2;
+                operacao = "Subtração";
+                simbolo = "-";
+                break;
+            case 3:
                 resultado = num1 * num2;
                 operacao = "Multiplicação";
                 simbolo = "*";
                 break;
-            case 3:
+            case 4:
                 if (num2 == 0) {
                     System.out.println("Erro: Divisão por zero não é permitida!");
                     scanner.close();
