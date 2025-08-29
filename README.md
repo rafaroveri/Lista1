@@ -32,3 +32,7 @@ Author: Rafael Roveri <112029512+rafaroveri@users.noreply.github.com>
 Date:   Mon Aug 25 20:54:45 2025 -0300
 
     Initial commit
+
+# Como garantimos a integridade da versão
+
+Não foi encontrado nenhum conflito na hora de fazer o merge 
