@@ -1,11 +1,11 @@
 # Lista1
-Repositorio para a atividade 01 da Gerência de configurações com devops
-Rafael Roveri criou o repositório para o código de uma calculadora simples
-Rafael Roveri criou o arquivoJava.java (Sem criatividade) e escreveu o código de uma calculadora
-Rafael Roveri criou um novo branch para realizar alterações chamado novoBranchAlteracao (Novamente)
-Rafael Roveri, nesse novo branch, alterou o código java para incluir a operação de subtração na calculadora
-Rafael Roveri criou um PR desse novo branch para a Main
-Rafael Roveri analisou as mudanças do código e fez o merge, já que não havia conflitos.
+- Repositorio para a atividade 01 da Gerência de configurações com devops
+- Rafael Roveri criou o repositório para o código de uma calculadora simples
+- Rafael Roveri criou o arquivoJava.java (Sem criatividade) e escreveu o código de uma calculadora
+- Rafael Roveri criou um novo branch para realizar alterações chamado novoBranchAlteracao (Novamente)
+- Rafael Roveri, nesse novo branch, alterou o código java para incluir a operação de subtração na calculadora
+- Rafael Roveri criou um PR desse novo branch para a Main
+- Rafael Roveri analisou as mudanças do código e fez o merge, já que não havia conflitos.
 
 # GIT LOG
 
